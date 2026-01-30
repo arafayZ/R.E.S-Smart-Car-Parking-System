@@ -1,1 +1,1 @@
-*.txt linguist-language=c++
+*ca prj code.txt linguist-language=c++
